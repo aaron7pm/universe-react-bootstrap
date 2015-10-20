@@ -1,8 +1,8 @@
 Package.describe({
     name: 'universe:react-bootstrap',
-    version: '0.24.2',
+    version: '0.25',
     summary: 'ReactBootstrap project wrapped for Meteor with Universe:modules',
-    git: 'https://github.com/vazco/universe-react-bootstrap',
+    git: 'https://github.com/aaron7pm/universe-react-bootstrap',
     documentation: 'README.md'
 });
 
@@ -11,7 +11,7 @@ Package.onUse(function (api) {
 
     api.use([
         'react-runtime',
-        'universe:modules@0.4.0'
+        'universe:modules'
     ]);
 
     api.addFiles([
