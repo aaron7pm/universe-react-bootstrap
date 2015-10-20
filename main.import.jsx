@@ -41,6 +41,7 @@ export const MenuItem = ReactBootstrap['MenuItem'];
 export const Modal = ReactBootstrap['Modal'];
 export const Nav = ReactBootstrap['Nav'];
 export const Navbar = ReactBootstrap['Navbar'];
+export const NavBrand = ReactBootstrap['NavBrand'];
 export const NavItem = ReactBootstrap['NavItem'];
 export const ModalTrigger = ReactBootstrap['ModalTrigger'];
 export const OverlayTrigger = ReactBootstrap['OverlayTrigger'];
